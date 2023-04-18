@@ -1,9 +1,12 @@
 # text-summarization-nlp
 
-## group members: 
+## Group Members: 
 1. Shri Datta Madhira
 2. Sri Charan Vemuri
 3. Rahul Reddy Baddam
+
+## Dataset:
+https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
 
 ## Files:
 ### ipynb files
